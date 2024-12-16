@@ -10,11 +10,6 @@
 
 ![gyu8](https://github.com/pranshu-5123/pranshu-5123/assets/112655759/da1a1418-b891-4c99-bfe5-b868028a6877)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranshu-5123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranshu-5123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu-5123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranshu-5123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
