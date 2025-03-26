@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  AI/ML and Mobile App Developement.<br>👯 I’m looking to collaborate on AI/Ml and Mobile App Developement Projects<br>⚡ Fun fact :: I once debugged a program for so long that I dreamt in code that night!💻 
+🔭 I’m currently working on Data Science and Python Developement.<br>👯 I’m looking to collaborate on AI/Ml and Deep Learning Projects<br>⚡ Fun fact :: I once debugged a program for so long that I dreamt in code that night!💻 
 
 
 ## 🌐 Socials:
